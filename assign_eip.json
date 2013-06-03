@@ -1,0 +1,5 @@
+{
+"aws_access_key": "AWS_access_key",
+"aws_secret_key": "Your_AWS_secret_key",
+"eip": "Elastic IP to assign"
+}
